@@ -16,4 +16,12 @@ we installed material styles
 2. update angular.json file path
 3. import child styles to the main styles.scss file
 
+folders;
+./app/features, ./app/shared, ./app/core
+
+https://itnext.io/choosing-a-highly-scalable-folder-structure-in-angular-d987de65ec7
+
+
+# Task 4 Generate feature modules with routes
+>> ng g m user --routing=true
 
