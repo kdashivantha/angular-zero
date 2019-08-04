@@ -1,0 +1,1 @@
+The CoreModule provides singleton services, global components, and core functionalities. Only the root AppModule should import the CoreModule.

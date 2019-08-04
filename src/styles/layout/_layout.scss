@@ -1,0 +1,28 @@
+app-content-layout{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    overflow: hidden;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+app-header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 2;
+}
+mat-sidenav-container {
+    flex:1;
+    top: 60px;
+    left: 0;
+    right: 0;
+    height: 100%;
+} 
+mat-sidenav {
+    width: 250px;
+}

@@ -1,0 +1,1 @@
+The SharedModule provides commonly used components, directives, and pipes that will be referenced by the components declared in other feature modules.

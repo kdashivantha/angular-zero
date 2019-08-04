@@ -1,2 +1,10 @@
+
+@import "../../node_modules/@angular/material/prebuilt-themes/indigo-pink.css";
+
 @import './layout/custom-theme','./layout/layout';
 @import './features/users';
+
+html,body {
+    height:100%;
+    margin: 0;
+}
